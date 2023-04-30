@@ -23,6 +23,12 @@ categroized event based on time (Today/Weekend/Tomorrow/All)
 Ui:
 
 you can find ui here:
+
+svg format:
+file:///C:/Users/Dixit/AppData/Local/Temp/MicrosoftEdgeDownloads/29dbcbd2-91d7-4e0b-88cf-7f0f075f5dee/App_UI_nzeh3m.svg
+
+jpg format:
 https://res.cloudinary.com/dz7xfhqxk/image/upload/v1682838775/WhatsApp_Image_2023-04-30_at_12.41.03_sxylx1.jpg
+
 
 
